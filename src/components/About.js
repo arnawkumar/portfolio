@@ -17,7 +17,7 @@ function About() {
             </p>
           </div>
           <div className="about-image">
-            <img src="https://via.placeholder.com/300x300" alt="Profile" />
+            <img src="/arnaw.jpg" alt="Profile" />
           </div>
         </div>
       </div>
